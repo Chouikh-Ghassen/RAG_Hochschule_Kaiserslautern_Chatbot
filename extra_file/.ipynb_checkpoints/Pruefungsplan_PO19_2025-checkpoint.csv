@@ -1,0 +1,144 @@
+﻿Data.Column1;Data.Column3;Data.Column5;Data.Column6;Data.Column7;Data.Column8;Data.Column9;Data.Column10;Data.Column31;Data.Column33
+Prüfungsplan für das WiSe 2025/2026 des Fachbereichs AING;;;;;;Stand: 09.10.2025;;;
+alle Bachelor-Studiengänge (PO 2019);;;;;;;;;
+Master-Studiengang ET/IT (PO 2021);;;;;;;;;
+Lehrgebiet;PNR;Prüfungsdatum;Dauer;Zeit beginn;Zeit ende;Prüfer/-in;Zweitprüfer/-in;"Anmeldeschluss
+(23:59 Uhr)";Ende Rücktritt (23:59 Uhr)
+Aktor- und Sensortechnik;1827;26.01.2026;90 min;11:00;12:30;Geromiller;Urschel;20.11.2025;19.01.2026
+Aktorik und Sensorik;1888;23.01.2026;90 min;14:00;15:30;Urschel;Schumann;20.11.2025;16.01.2026
+Algorithmen 1;1842;19.01.2026;60 min;08:00;09:00;Kiss;Bomarius;20.11.2025;12.01.2026
+Algorithmen 2;1848;Absprache Dozent;PL;Info von Dozent;Info von Dozent;Kiss;Bomarius;20.11.2025;#WERT!
+Anlagenplanung;1010;20.01.2026;90 min;14:00;15:30;Kaiser;López López;20.11.2025;13.01.2026
+Antriebstechnik;1837;26.01.2026;90 min;08:00;09:30;Schumann;Urschel;20.11.2025;19.01.2026
+Apparatebau;1012;26.01.2026;90 min;11:00;12:30;Werth;Kaiser;20.11.2025;19.01.2026
+Arbeitswissenschaft;1014;25.02.2026;90 min;11:00;12:30;Thurnes;Hielscher;20.11.2025;18.02.2026
+Aufstellungsplanung - Projektarbeit;1885;Absprache Dozent;PA;Info von Dozent;Info von Dozent;Kaiser;López López;20.11.2025;#WERT!
+Automatisierungstechnik 1;1826;27.01.2026;60 min;11:00;12:00;Opperskalski;Heidrich;20.11.2025;20.01.2026
+Beschaffungsmanagement & Logistik;1910;26.01.2026;90 min;14:00;15:30;Comperl;Reiner;20.11.2025;19.01.2026
+Betriebswirtschaftslehre für Ingenieure;1875;30.01.2026;120 min;08:00;10:00;A. Heß;Reiner;20.11.2025;23.01.2026
+Bildverarbeitung;1301;26.01.2026;90 min;11:00;12:30;Böhm;Steidel;20.11.2025;19.01.2026
+CAD-Grundlagen;1443;19.01.2026;90 min;14:00;15:30;Kilb / Weber;Enk;20.11.2025;12.01.2026
+CAD-Grundlagen (WI / EI / MT);1499;27.01.2026;90 min;14:00;15:30;Kilb / Weber;Enk;20.11.2025;20.01.2026
+Chemie;1440;25.02.2026;90 min;11:00;12:30;Kaiser;López López;20.11.2025;18.02.2026
+Digitale Entwicklungsprozesse und PLM;1877;26.01.2026;90 min;11:00;12:30;Kilb;Enk;20.11.2025;19.01.2026
+Digitale Systeme und IoT;1843;23.01.2026;90 min;11:00;12:30;Schütz;Opperskalski;20.11.2025;16.01.2026
+Dynamik;1860;27.02.2026;90 min;14:00;15:30;Leiner / Magin;Magin / Leiner;20.11.2025;20.02.2026
+Einführung in die Elektrotechnik;1861;23.01.2026;90 min;11:00;12:30;Herchenhan;Urschel;20.11.2025;16.01.2026
+Einführung in die Elektrotechnik - WI-MB;1040;23.01.2026;90 min;11:00;12:30;Herchenhan;Urschel;20.11.2025;16.01.2026
+Einführung in die Kunststofftechnik;1913;Absprache Dozent;E-Portfolio;Info von Dozent;Info von Dozent;Magin;Enk;20.11.2025;#WERT!
+Einführung in die objektorientierte Softwareentwicklung;1042;20.01.2026;90 min;11:00;12:30;Bomarius;Schütz;20.11.2025;13.01.2026
+Einführung in die VWL;1046;19.01.2026;90 min;11:00;12:30;Reiner;Hielscher;20.11.2025;12.01.2026
+Einführung in Energiesysteme;1899;Absprache Dozent;HA;Info von Dozent;Info von Dozent;Hampel;Heidrich;20.11.2025;#WERT!
+Elektrische Anlagentechnik;1825;Absprache Dozent;90 min;Info von Dozent;Info von Dozent;Glöser;Urschel;20.11.2025;#WERT!
+Elektrische Maschinen 1;1835;23.02.2026;90 min;11:00;12:30;Urschel;Schumann;20.11.2025;16.02.2026
+Elektrische Maschinen 2;1858;27.01.2026;90 min;11:00;12:30;Urschel;Schumann;20.11.2025;20.01.2026
+Elektrische Messtechnik;1820;26.01.2026;90 min;08:00;09:30;Geromiller;Steil;20.11.2025;19.01.2026
+Elektrische Messtechnik (für WI und EI);1897;26.01.2026;60 min;08:00;09:00;Geromiller;Steil;20.11.2025;19.01.2026
+Elektroenergiesysteme 1 + 2;1535;26.02.2026;180 min;14:00;17:00;Hoof;Schumann;20.11.2025;19.02.2026
+Elektromechanische Aktoren;1065;28.01.2026;90 min;14:00;15:30;Urschel;Schumann;20.11.2025;21.01.2026
+Elektronik und EMV;1821;27.02.2026;120 min;08:00;10:00;Schumann;Steil;20.11.2025;20.02.2026
+Energiespeicher und Lastmanagement;1901;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Glöser;Hampel;20.11.2025;#WERT!
+Energiewirtschaft und Energiekonzepte;1900;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Glöser;Hampel;20.11.2025;#WERT!
+Energiewirtschaft und regenerative Energiesysteme;1915;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Glöser;Urschel;20.11.2025;#WERT!
+Experimentalphysik;1439;23.01.2026;90 min;08:00;09:30;Gilbert / Hampel;Hampel / Gilbert;20.11.2025;16.01.2026
+Fahrzeugantriebe;1883;20.01.2026;120 min;11:00;13:00;Heidrich;Opperskalski;20.11.2025;13.01.2026
+Fahrzeugtechnik;1451;27.01.2026;120 min;14:00;16:00;Heidrich;Heß;20.11.2025;20.01.2026
+Fertigungstechnik;1073;21.01.2026;90 min;14:00;15:30;Enk;Hielscher;20.11.2025;14.01.2026
+Festigkeitslehre;1074;27.01.2026;90 min;11:00;12:30;Leiner / Magin;Magin / Leiner;20.11.2025;20.01.2026
+Finanzbuchhaltung und Bilanzierung;1908;25.02.2026;90 min;14:00;15:30;Alt;Reiner;20.11.2025;18.02.2026
+Finite-Elemente-Methode;1076;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Magin;Gilbert;20.11.2025;#WERT!
+Fluidtechnik;1078;19.01.2026;90 min;14:00;15:30;Heidrich;Opperskalski;20.11.2025;12.01.2026
+Funktionsgerechte Produktentwicklung;1876;28.01.2026;PA;11:00;#WERT!;Kilb;Enk;20.11.2025;21.01.2026
+Generative Fertigungsverfahren;1745;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Enk;Kilb;20.11.2025;#WERT!
+Grundlagen der Elektrotechnik 1 + 2;1816;27.01.2026;120 min;11:00;13:00;Glöser;Steil;20.11.2025;20.01.2026
+Grundlagen der Elektrotechnik 3;1818;28.01.2026;90 min;11:00;12:30;C. Räch;Steil;20.11.2025;21.01.2026
+Grundlagen der Elektrotechnik 4;1819;20.01.2026;90 min;08:00;09:30;Hoof;Schumann;20.11.2025;13.01.2026
+Grundlagen der Programmierung;1862;19.01.2026;60 min;11:00;12:00;Kiss;Bomarius;20.11.2025;12.01.2026
+Grundlagen der Softwareentwicklung 1 + 2;1813;29.01.2026;90 min;11:00;12:30;Schütz;Kiss;20.11.2025;22.01.2026
+Grundlagen der Strömungssimulation;1878;Absprache Dozent;HA;Info von Dozent;Info von Dozent;Gilbert;Heidrich;20.11.2025;#WERT!
+Grundlagen technischer Simulation;1734;22.01.2026;90 min;11:00;12:30;Maier;Herchenhan;20.11.2025;15.01.2026
+Hochspannungstechnik;1108;29.01.2026;90 min;08:00;09:30;Hoof;Schumann;20.11.2025;22.01.2026
+Industrielle Kommunikation und Industrie 4.0 -Automatisierungstechnik 2;1744;21.01.2026;60 min;11:00;12:00;Opperskalski;Schütz;20.11.2025;14.01.2026
+Ingenieurmathematik 1;1810;23.02.2026;120 min;14:00;16:00;Maier / Steidel;Steidel / Maier;20.11.2025;16.02.2026
+Ingenieurmathematik 2;1811;26.01.2026;90 min;14:00;15:30;Böhm / Steidel;Steidel / Böhm;20.11.2025;19.01.2026
+Ingenieurmathematik 3;1859;25.02.2026;90 min;08:00;09:30;Leiner / Steidel;Steidel / Leiner;20.11.2025;18.02.2026
+Internes Rechnungswesen;1909;29.01.2026;90 min;08:00;09:30;Alt;Reiner;20.11.2025;22.01.2026
+Investition und Finanzierung;1911;24.02.2026;90 min;08:00;09:30;Reiner;Hielscher;20.11.2025;17.02.2026
+IT-Sicherheit;1648;28.01.2026;60 min;08:00;09:00;Kiss;Bomarius;20.11.2025;21.01.2026
+Kommunikation und Moderation;1472;23.01.2026;60 min;14:00;15:00;M. Becherer;Reiner;20.11.2025;16.01.2026
+Kommunikationstechnik und -systeme 1;1849;24.02.2026;90 min;11:00;12:30;Steil;Groß;20.11.2025;17.02.2026
+Kommunikationstechnik und -systeme 2;1852;28.01.2026;90 min;14:00;15:30;Steil;Groß;20.11.2025;21.01.2026
+Komponenten mechanischer Systeme;1893;19.01.2026;90 min;08:00;09:30;Enk;Bauer;20.11.2025;12.01.2026
+Konstruktion - Hausarbeit;1200;Absprache Dozent;HA;Info von Dozent;Info von Dozent;Kilb;Enk;13.10.2025;13.10.2025
+Konstruktionsmethodik - Hausarbeit;1873;Absprache Dozent;HA;Info von Dozent;Info von Dozent;Helmstädter;Bauer;13.10.2025;13.10.2025
+Konstruktionswerkstoffe;1130;28.01.2026;90 min;08:00;09:30;Starke;Hielscher;20.11.2025;21.01.2026
+Labor CNC Technik;1195;Absprache Dozent;90 min;Info von Dozent;Info von Dozent;Hielscher;Enk;20.11.2025;#WERT!
+Labor Produktionstechnik;1193;Absprache Dozent;PA;Info von Dozent;Info von Dozent;Hielscher;Enk;20.11.2025;#WERT!
+Leichtbaukonstruktion;1132;Absprache Dozent;E-Portfolio;Info von Dozent;Info von Dozent;Magin;Heß;20.11.2025;#WERT!
+Leistungselektronik;1830;28.01.2026;120 min;14:00;16:00;Schumann;Hoof;20.11.2025;21.01.2026
+Management und Controlling;1669;27.01.2026;90 min;14:00;15:30;Reiner;Hielscher;20.11.2025;20.01.2026
+Marketing und Vertrieb;1142;22.01.2026;90 min;14:00;15:30;S. Winter;Reiner;20.11.2025;15.01.2026
+Maschinendynamik;1143;29.01.2026;120 min;08:00;10:00;Magin;Leiner;20.11.2025;22.01.2026
+Maschinenelemente 1;1867;21.01.2026;90 min;11:00;12:30;Enk;Kilb;20.11.2025;14.01.2026
+Maschinenelemente 2;1869;29.01.2026;THE 8h;11:00;19:00;Helmstädter;Kilb;20.11.2025;22.01.2026
+Maschinenelemente 3;1871;21.01.2026;THE 8h;11:00;19:00;Helmstädter;Kilb;20.11.2025;14.01.2026
+Mathematik 3 für Elektrotechniker;1812;25.02.2026;90 min;08:00;09:30;Böhm;Steidel;20.11.2025;18.02.2026
+Mechanische Antriebstechnik;1156;25.02.2026;90 min;14:00;15:30;Kilb;Urschel;20.11.2025;18.02.2026
+Mechanische Verfahrenstechnik;1157;27.01.2026;90 min;08:00;09:30;Kaiser;López López;20.11.2025;20.01.2026
+Mechatronische Systeme;1890;25.02.2026;90 min;11:00;12:30;Bitsch;Leiner;20.11.2025;18.02.2026
+Mehrkörpersysteme;1162;27.02.2026;90 min;08:00;09:30;Leiner;Magin;20.11.2025;20.02.2026
+Messen mechan. Größen;1165;30.01.2026;60 min;14:00;15:00;Heß;Heidrich;20.11.2025;23.01.2026
+Modellbasierte Entwicklung mechatronischer Systeme;1742;26.01.2026;90 min;08:00;09:30;Maier;Bitsch;20.11.2025;19.01.2026
+Operations Research;1182;28.01.2026;90 min;08:00;09:30;Bott;Reiner;20.11.2025;21.01.2026
+Personalführung;1652;28.01.2026;90 min;14:00;15:30;Hielscher;Reiner;20.11.2025;21.01.2026
+Physik;1508;20.01.2026;90 min;11:00;12:30;Maier;Hampel;20.11.2025;13.01.2026
+Produktionsplanung und -steuerung;1188;29.01.2026;90 min;08:00;09:30;Klein;Hielscher;20.11.2025;22.01.2026
+Programmierung, Datenstrukturen, Algorithmen;1441;20.01.2026;90 min;08:00;09:30;Bomarius;Schütz;20.11.2025;13.01.2026
+Projektmanagement und Kommunikation für Ingenieure;1824;Absprache Dozent;PA;Info von Dozent;Info von Dozent;"Becherer / Fischer /
+Glöser";"Glöser / Fischer /
+Becherer";20.11.2025;#WERT!
+Prozessmanagement;1912;27.02.2026;90 min;11:00;12:30;Alt;Reiner;20.11.2025;20.02.2026
+Qualitätsmanagement im Produktionsprozess;1201;30.01.2026;90 min;11:00;12:30;Klein / Thurnes;Hielscher;20.11.2025;23.01.2026
+Rechnerarchitektur und Mikroprozessoren;1839;30.01.2026;90 min;08:00;09:30;Bomarius;Schütz;20.11.2025;23.01.2026
+Rechnernetze;1841;29.01.2026;90 min;14:00;15:30;Möhrle;Schütz;20.11.2025;22.01.2026
+Recht;1203;21.01.2026;90 min;08:00;09:30;Bommer;Zeller (BG);20.11.2025;14.01.2026
+Regelungstechnik 1;1832;25.02.2026;90 min;14:00;15:30;Herchenhan;Opperskalski;20.11.2025;18.02.2026
+Regelungstechnik 2;1833;30.01.2026;90 min;11:00;12:30;Herchenhan;Opperskalski;20.11.2025;23.01.2026
+Regelungstechnik 2 für MT;1895;30.01.2026;90 min;11:00;12:30;Herchenhan;Opperskalski;20.11.2025;23.01.2026
+Regelungstechnik für Maschinenbau;1865;26.01.2026;90 min;11:00;12:30;Herchenhan;Opperskalski;20.11.2025;19.01.2026
+Robotik 1;1339;29.01.2026;90 min;08:00;09:30;Bitsch;Maier;20.11.2025;22.01.2026
+Robotik 2;1501;28.01.2026;60 min;11:00;12:00;Bitsch;Maier;20.11.2025;21.01.2026
+Signale und Systeme 1;1838;23.02.2026;90 min;08:00;09:30;Steil;Herchenhan;20.11.2025;16.02.2026
+Signale und Systeme 2;1517;30.01.2026;90 min;14:00;15:30;Steil;Herchenhan;20.11.2025;23.01.2026
+Statik;1442;27.02.2026;90 min;08:00;09:30;Heß / Leiner;Leiner / Heß;20.11.2025;20.02.2026
+Statik und Festigkeitslehre;1458;27.02.2026;120 min;11:00;13:00;Heidrich;Leiner;20.11.2025;20.02.2026
+Statistik;1456;26.02.2026;90 min;11:00;12:30;Steil;Steidel;20.11.2025;19.02.2026
+Steuerungstechnik;1881;26.01.2026;90 min;14:00;15:30;Heidrich;Opperskalski;20.11.2025;19.01.2026
+Strömungslehre;1231;27.01.2026;90 min;08:00;09:30;Gilbert;Kaiser;20.11.2025;20.01.2026
+Strömungslehre / Thermodynamik;1232;29.01.2026;120 min;14:00;16:00;Werth;Kaiser;20.11.2025;22.01.2026
+Strömungsmaschinen;1233;23.02.2026;90 min;11:00;12:30;Gilbert;Heidrich;20.11.2025;16.02.2026
+Technische Mechanik;1524;30.01.2026;90 min;11:00;12:30;Heß;Leiner;20.11.2025;23.01.2026
+Therm. Verfahrenstechnik;1239;23.02.2026;90 min;08:00;09:30;López López;Kaiser;20.11.2025;16.02.2026
+Thermodynamik;1241;23.02.2026;120 min;11:00;13:00;López López;Werth;20.11.2025;16.02.2026
+Verifizieren und Validieren / System-Engineering;1879;30.01.2026;90 min;14:00;15:30;Maier;Bitsch;20.11.2025;23.01.2026
+Wärme- und Stoffübertragung;1244;29.01.2026;90 min;14:00;15:30;López López / Werth;Werth / López López;20.11.2025;22.01.2026
+Werkstoffkunde;1245;28.01.2026;90 min;11:00;12:30;Starke;Hielscher;20.11.2025;21.01.2026
+Werkstoffkunde (für EI und MT);1886;29.01.2026;90 min;14:00;15:30;Geromiller / Starke;Starke / Geromiller;20.11.2025;22.01.2026
+Werkzeugmaschinen;1247;27.01.2026;90 min;14:00;15:30;Enk;Hielscher;20.11.2025;20.01.2026
+Wind & Wasser;1904;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Gilbert;Hampel;20.11.2025;#WERT!
+Zerspanungstechnik;1769;19.01.2026;90 min;08:00;09:30;Hielscher;Enk;20.11.2025;12.01.2026
+PCB-Design for Power Electronics;2254;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Schumann;Urschel;20.11.2025;#WERT!
+Language Models;2253;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Wick;Schütz;20.11.2025;#WERT!
+Embedded Systems;1956;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Schütz;Opperskalski;20.11.2025;#WERT!
+Agile Roboticsystems Engineering Challenge;3777;Absprache Dozent;PA;Info von Dozent;;Müller / Bufe / Braun;Bufe / Braun / Müller;20.11.2025;#WERT!
+Grundlagen des maschinellen Lernens;1799;27.02.2026;60 min;08:00;09:00;Maier;Steidel;20.11.2025;20.02.2026
+Tutoriumstätigkeit;1256-1260;Absprache Dozent;-;Info von Dozent;Info von Dozent;Diverse Prüfer;Diverse Prüfer;;
+Design-For-Six-Sigma (DFSS);1694;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Maier;Bomarius;20.11.2025;#WERT!
+Präsentationstechnik;1249;vorlesungsbegl.;PL;Info von Dozent;Info von Dozent;M. Becherer;Reiner;20.11.2025;#WERT!
+Schweißtechnik 1;1277;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Magin;Starke;20.11.2025;#WERT!
+Solartechnik;1730;27.01.2026;90 min;08:00;09:30;Hampel;Heidrich;20.11.2025;20.01.2026
+Technische Bauteilsauberkeit;1695;Absprache Dozent;90 min;Info von Dozent;Info von Dozent;Hielscher;Enk;20.11.2025;#WERT!
+Zerstörende und zerstörungsfreie Werkstoffprüfung;1667;Absprache Dozent;mündl.;Info von Dozent;Info von Dozent;Starke;Hielscher;20.11.2025;#WERT!
+Unternehmensplanspiel;1288;Absprache Dozent;4 Tage;Info von Dozent;Info von Dozent;Kindopp / Würkner;Würkner / Kindopp;20.11.2025;#WERT!
+Unternehmerisches Denken und Handeln;1268;Absprache Dozent;PL;Info von Dozent;Info von Dozent;Wiegland;Reiner;20.11.2025;#WERT!
+Sensornetze;2019;Absprache Dozent;90 min;Info von Dozent;Info von Dozent;Möhrle;Bomarius;20.11.2025;#WERT!

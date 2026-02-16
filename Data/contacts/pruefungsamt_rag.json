@@ -1,0 +1,512 @@
+[
+  {
+    "type": "studierendensekretariat_sprechstunden",
+    "name": "Frau Schneider",
+    "offene_sprechstunde": "Dienstag und Donnerstag 09:00 - 12:00 und 13:30 - 15:00 Uhr",
+    "sprechstunde_nach_termin": "Montag und Mittwoch",
+    "freitag": "geschlossen"
+  },
+  {
+    "type": "studierendensekretariat_sprechstunden",
+    "name": "Frau Schmidt",
+    "offene_sprechstunde": "Dienstag und Donnerstag 09:00 - 12:00 und 13:30 - 15:00 Uhr",
+    "sprechstunde_nach_termin": "Montag und Mittwoch",
+    "freitag": "geschlossen"
+  },
+  {
+    "type": "studierendensekretariat_sprechstunden",
+    "name": "Frau Lenhart",
+    "offene_sprechstunde": "Dienstag und Donnerstag 09:00 - 12:00 und 13:00 - 14:00 Uhr",
+    "sprechstunde_nach_termin": "Montag und Mittwoch",
+    "freitag": "geschlossen"
+  },
+  {
+    "type": "studierendensekretariat_sprechstunden",
+    "name": "Frau Theobald",
+    "offene_sprechstunde": "Dienstag 09:00 - 12:00 Uhr",
+    "sprechstunde_nach_termin": "Montag und Mittwoch",
+    "freitag": "geschlossen"
+  },
+  {
+    "type": "pruefungsamt_sprechstunden",
+    "name": "Frau Adam",
+    "bereich": "AING, berufsbegleitend",
+    "offene_sprechstunde": "Mittwoch und Freitag von 09:00 bis 12:00 Uhr",
+    "sprechstunde_nach_termin": "Montag bis Donnerstag"
+  },
+  {
+    "type": "pruefungsamt_sprechstunden",
+    "name": "Frau Doll",
+    "bereich": "AING",
+    "offene_sprechstunde": "Dienstag und Donnerstag von 09:00 bis 12:00 und 14:00 bis 15:00 Uhr",
+    "sprechstunde_nach_termin": "Montag und Mittwoch"
+  },
+  {
+    "type": "pruefungsamt_sprechstunden",
+    "name": "Frau Sander",
+    "bereich": "AING",
+    "offene_sprechstunde": "Dienstag und Donnerstag von 09:00 bis 12:00 Uhr und Donnerstag von 13:30 bis 15:00 Uhr",
+    "sprechstunde_nach_termin": "Montag und Mittwoch"
+  },
+  {
+    "type": "pruefungsamt_sprechstunden",
+    "name": "Frau Krob",
+    "bereich": "AING, berufsbegleitend",
+    "offene_sprechstunde": "Freitag von 09:00 bis 12:00 Uhr"
+  },
+  {
+    "type": "pruefungsamt_sprechstunden",
+    "name": "Frau Haußner",
+    "bereich": "BuG",
+    "offene_sprechstunde": "Dienstag und Donnerstag von 09:00 bis 12:00 und 13:30 bis 15:00 Uhr",
+    "sprechstunde_nach_termin": "Montag und Mittwoch"
+  },
+  {
+    "type": "pruefungsamt_sprechstunden",
+    "name": "Frau Rains",
+    "bereich": "BuG",
+    "offene_sprechstunde": "Montag bis Donnerstag von 09:00 bis 12:00 Uhr",
+    "sprechstunde_nach_termin": "Montag bis Donnerstag 13:30 bis 15:00 Uhr"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Architektur - Bachelor/Master",
+    "sachbearbeiterin": "Sandra Lenhart",
+    "raum": "Kammgarn F 0.011",
+    "durchwahl": "2132",
+    "email": "sandra.lenhart@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Bauingenieurwesen - Bachelor/Master",
+    "sachbearbeiterin": "Sandra Schmidt",
+    "raum": "Kammgarn F 0.010",
+    "durchwahl": "2270",
+    "email": "sandra.schmidt@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Bauingenieurwesen - dual",
+    "sachbearbeiterin": "Sandra Schmidt",
+    "raum": "Kammgarn F 0.010",
+    "durchwahl": "2270",
+    "email": "sandra.schmidt@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Berufsbegleitende Studiengänge",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Digital Engineering - Bachelor/Master",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Digital Engineering - dual",
+    "sachbearbeiterin": "Petra Helfrich",
+    "raum": "Kammgarn F 0.008",
+    "durchwahl": "2113",
+    "email": "petra.helfrich@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Elektrotechnik",
+    "sachbearbeiterin": "Petra Helfrich",
+    "raum": "Kammgarn F 0.008",
+    "durchwahl": "2113",
+    "email": "petra.helfrich@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Elektrotechnik - ausbildungsintegriert",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Elektrotechnik - dual",
+    "sachbearbeiterin": "Petra Helfrich",
+    "raum": "Kammgarn F 0.008",
+    "durchwahl": "2113",
+    "email": "petra.helfrich@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Elektrotechnik - berufsbegleitend",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Elektrotechnik und Informationstechnik - Master",
+    "sachbearbeiterin": "Sandra Schmidt",
+    "raum": "Kammgarn F 0.010",
+    "durchwahl": "2270",
+    "email": "sandra.schmidt@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Energie-Ingenieurwesen",
+    "sachbearbeiterin": "Petra Helfrich",
+    "raum": "Kammgarn F 0.008",
+    "durchwahl": "2113",
+    "email": "petra.helfrich@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Energie-Ingenieurwesen - dual",
+    "sachbearbeiterin": "Petra Helfrich",
+    "raum": "Kammgarn F 0.008",
+    "durchwahl": "2113",
+    "email": "petra.helfrich@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Innenarchitektur - Bachelor/Master",
+    "sachbearbeiterin": "Sandra Schmidt",
+    "raum": "Kammgarn F 0.010",
+    "durchwahl": "2270",
+    "email": "sandra.schmidt@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "LehrePlusHS",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Maschinenbau",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Maschinenbau - ausbildungsintegriert",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Maschinenbau - dual",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Maschinenbau/Mechatronik - Master",
+    "sachbearbeiterin": "Sandra Schmidt",
+    "raum": "Kammgarn F 0.010",
+    "durchwahl": "2270",
+    "email": "sandra.schmidt@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Maschinenbau - berufsbegleitend",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Mechanical Engineering",
+    "sachbearbeiterin": "Simone Theobald",
+    "raum": "Kammgarn F 0.011",
+    "durchwahl": "2191",
+    "email": "simone.theobald@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Mechatronik",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Mechatronik - ausbildungsintegriert",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Mechatronik - dual",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Virtual Design - Bachelor/Master",
+    "sachbearbeiterin": "Sandra Lenhart",
+    "raum": "Kammgarn F 0.011",
+    "durchwahl": "2132",
+    "email": "sandra.lenhart@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Wirtschaftsingenieurwesen",
+    "sachbearbeiterin": "Petra Helfrich",
+    "raum": "Kammgarn F 0.008",
+    "durchwahl": "2113",
+    "email": "petra.helfrich@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Wirtschaftsingenieurwesen - berufsbegleitend",
+    "sachbearbeiterin": "Nadine Schneider",
+    "raum": "Kammgarn F 0.009",
+    "durchwahl": "2126",
+    "email": "nadine.schneider@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_studierendensekretariat",
+    "studiengang": "Wirtschaftsingenieurwesen - dual",
+    "sachbearbeiterin": "Petra Helfrich",
+    "raum": "Kammgarn F 0.011",
+    "durchwahl": "2113",
+    "email": "petra.helfrich@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Automatisierungstechnik - berufsbegleitend",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Digital Engineering",
+    "sachbearbeiterin": "Andrea Adam",
+    "raum": "Kammgarn F 0.013",
+    "durchwahl": "2410",
+    "email": "andrea.adam@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Elektrotechnik (auch dual)",
+    "sachbearbeiterin": "Lucia Doll",
+    "raum": "Kammgarn F 0.012",
+    "durchwahl": "2273",
+    "email": "lucia.doll@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Elektrotechnik - ausbildungsintegriert",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Elektrotechnik - berufsbegleitend",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Energie-Ingenieurwesen",
+    "sachbearbeiterin": "Andrea Adam",
+    "raum": "Kammgarn F 0.013",
+    "durchwahl": "2410",
+    "email": "andrea.adam@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Industrial Engineering - berufsbegleitend",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "LehrePlusHS",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Maschinenbau (auch dual)",
+    "sachbearbeiterin": "Stefanie Sander",
+    "raum": "Kammgarn F 0.034",
+    "durchwahl": "4464",
+    "email": "stefanie.sander@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Maschinenbau - ausbildungsintegriert",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Maschinenbau - berufsbegleitend",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Mechatronik (auch dual)",
+    "sachbearbeiterin": "Stefanie Sander",
+    "raum": "Kammgarn F 0.034",
+    "durchwahl": "4464",
+    "email": "stefanie.sander@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Mechatronik - ausbildungsintegriert",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Mechatronik - berufsbegleitend",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Prozessingenieurwesen - berufsbegleitend",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Wirtschaftsingenieurwesen (auch dual)",
+    "sachbearbeiterin": "Lucia Doll",
+    "raum": "Kammgarn F 0.012",
+    "durchwahl": "2273",
+    "email": "lucia.doll@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Wirtschaftsingenieurwesen - berufsbegleitend",
+    "sachbearbeiterin": "Jeannette Krob",
+    "raum": "Kammgarn F 0.014",
+    "durchwahl": "2191",
+    "email": "jeannette.krob@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Master Digital Engineering",
+    "sachbearbeiterin": "Andrea Adam",
+    "raum": "Kammgarn F 0.013",
+    "durchwahl": "2191",
+    "email": "andrea.adam@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Master Elektrotechnik - berufsbegleitend",
+    "sachbearbeiterin": "Andrea Adam",
+    "raum": "Kammgarn F 0.013",
+    "durchwahl": "2410",
+    "email": "andrea.adam@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Master Elektrotechnik und Informationstechnik",
+    "sachbearbeiterin": "Lucia Doll",
+    "raum": "Kammgarn F 0.012",
+    "durchwahl": "2273",
+    "email": "lucia.doll@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Master Maschinenbau/Mechatronik",
+    "sachbearbeiterin": "Stefanie Sander",
+    "raum": "Kammgarn F 0.034",
+    "durchwahl": "4464",
+    "email": "stefanie.sander@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_aing",
+    "studiengang": "Master Prozesstechnik - berufsbegleitend",
+    "sachbearbeiterin": "Andrea Adam",
+    "raum": "Kammgarn F 0.013",
+    "durchwahl": "2410",
+    "email": "andrea.adam@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_bug",
+    "studiengang": "Architektur Bachelor/Master",
+    "sachbearbeiterin": "Stephanie Rains",
+    "raum": "Kammgarn F 0.035",
+    "durchwahl": "4407",
+    "email": "stephanie.rains@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_bug",
+    "studiengang": "Bauingenieurwesen Bachelor/Master",
+    "sachbearbeiterin": "Nicole Haußner",
+    "raum": "Kammgarn F 0.033",
+    "durchwahl": "4406",
+    "email": "nicole.haussner@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_bug",
+    "studiengang": "Bauingenieurwesen - dual",
+    "sachbearbeiterin": "Nicole Haußner",
+    "raum": "Kammgarn F 0.033",
+    "durchwahl": "4406",
+    "email": "nicole.haussner@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_bug",
+    "studiengang": "Innenarchitektur Bachelor/Master",
+    "sachbearbeiterin": "Nicole Haußner",
+    "raum": "Kammgarn F 0.033",
+    "durchwahl": "4406",
+    "email": "nicole.haussner@hs-kl.de"
+  },
+  {
+    "type": "ansprechpartner_pruefungsamt_bug",
+    "studiengang": "Virtual Design Bachelor/Master",
+    "sachbearbeiterin": "Stephanie Rains",
+    "raum": "Kammgarn F 0.035",
+    "durchwahl": "4407",
+    "email": "stephanie.rains@hs-kl.de"
+  }
+]
+
