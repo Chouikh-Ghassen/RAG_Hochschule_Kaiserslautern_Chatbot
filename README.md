@@ -4,6 +4,10 @@ An intelligent Retrieval-Augmented Generation (RAG) chatbot built to
 assist students of Hochschule Kaiserslautern with questions about exams,
 professors, internship requirements, and campus information.
 
+## Demo Screenshot
+
+![University AI Chatbot Demo](screenshots/chatbot_demo.png)
+
 ------------------------------------------------------------------------
 
 ##  Project Overview
