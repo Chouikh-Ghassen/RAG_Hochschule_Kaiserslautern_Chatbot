@@ -172,5 +172,6 @@ This project demonstrates:
 
 ## Author
 
+Ghassen Chouikh
 Personal AI Engineering Project\
 Built for Hochschule Kaiserslautern
