@@ -56,8 +56,3 @@ pip install plotly scikit-learn matplotlib pandas
 - LangChain: 0.3.x (Stable)
 - Vector Store: ChromaDB
 
----
-
-### Pro Tip for Sharing
-If you want to make it even easier for others, you can create a `requirements.txt` file by running `pip freeze > requirements.txt` while your environment is active. Then they can just run `pip install -r requirements.txt`.
-
