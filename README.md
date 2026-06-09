@@ -99,8 +99,8 @@ block by block.
 
 ### Clone the repository
 
-    git clone <your-repo-url>
-    cd <your-project-folder>
+    git clone https://github.com/Chouikh-Ghassen/RAG_Hochschule_Kaiserslautern_Chatbot.git
+    cd RAG_Hochschule_Kaiserslautern_Chatbot
 
 ### Install dependencies
 
